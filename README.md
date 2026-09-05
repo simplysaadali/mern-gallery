@@ -35,11 +35,9 @@ Full-size image viewer with navigation and delete controls.
 
 ![Image Viewer](ScreenShots/Image-View.png)
 
-### Upload Complete
+### Live View
 
-Gallery state after saving an image.
-
-![Upload Complete](ScreenShots/Saved.png)
+https://github.com/user-attachments/assets/4af28854-75e1-4e4d-bf98-cc204b498f17
 
 ## Technologies
 
